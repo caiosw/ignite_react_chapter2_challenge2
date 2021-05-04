@@ -4,7 +4,7 @@
       "id": 2,
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "price": "22.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
@@ -17,11 +17,11 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "chrome-extension://jdcfmebflppkljibgpdlboifpcaalolg/images/meliuz-card/meliuz-card-promo.svg",
-      "name": "gsdfg2",
-      "price": "3456",
-      "description": "dfghdfg",
-      "available": false,
+      "image": "asdasd",
+      "name": "asdasd",
+      "price": "111",
+      "description": "asdasd",
+      "available": true,
       "id": 4
     }
   ]
