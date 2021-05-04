@@ -8,11 +8,7 @@ import ModalEditFood from '../../components/ModalEditFood';
 import { FoodsContainer } from './styles';
 import { FoodProps } from '../../types';
 
-interface DashboardProps {
-
-}
-
-function Dashboard(props: DashboardProps) {
+function Dashboard() {
   const [foods, setFoods] = useState<FoodProps[]>([]);
   const [editingFood, setEditingFood] = useState<FoodProps>();
   const [modalOpen, setModalOpen] = useState(false);
